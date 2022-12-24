@@ -1,0 +1,37 @@
+.container h3 {
+    color: #AAAAAA;
+}
+.btn{
+    margin-left: 38%;
+}
+.bookmark
+{
+    background-color: rgb(238, 238, 238);
+    padding: 50px 100px;
+}
+.form-label{
+    margin-left: 45%;
+}
+p
+{
+    color: #AAAAAA;
+}
+.shape
+{
+    background-color: rgb(238, 238, 238);
+    padding: 20px 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: mediumblue;
+    border: 1px solid mediumblue;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
+a:hover{
+    color: white;
+}
+
+
+
